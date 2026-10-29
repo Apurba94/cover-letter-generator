@@ -1,0 +1,16 @@
+{
+  "journal": "Journal of Example Research",
+  "editor": "Dr. Jane Editor",
+  "title": "Low-cost sensors for continuous air quality monitoring in classrooms",
+  "article_type": "research article",
+  "summary": "We deployed 120 low-cost sensors in 40 schools for one year and show that, after calibration, they track reference monitors within 8%.",
+  "significance": "Our results show that schools can monitor indoor air quality at one tenth of the usual cost.",
+  "fit": "The work fits the journal's focus on environmental exposure assessment.",
+  "data_availability": "All data and code are openly available on Zenodo.",
+  "conflicts": "none",
+  "suggested_reviewers": [{"name": "Dr. A. Reviewer", "affiliation": "University X", "email": "a@x.edu", "expertise": "sensor calibration"}],
+  "opposed_reviewers": ["Dr. B. Competitor"],
+  "corresponding_author": "Dr. C. Author",
+  "affiliation": "Institute of Things",
+  "email": "c.author@institute.org"
+}
